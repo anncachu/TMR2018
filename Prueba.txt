@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adios 123456
+=======
+Adios
+>>>>>>> parent of 362f581... a
